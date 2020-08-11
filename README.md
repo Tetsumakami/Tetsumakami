@@ -1,16 +1,15 @@
-### Hi there 👋
+### Helo, call me Tetsu!
 
-<!--
-**Tetsumakami/Tetsumakami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+you just find useless shit but it's okay if you are so bored and visit my github site :D
 
-Here are some ideas to get you started:
+### my social medias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Twitter:** [@Tetsumakami](https://twitter.com/Tetsumakami)
+**Steam:** [/id/Tetsumakami](https://steamcommunity.com/id/Tetsumakami)
+**Discord Server:** [yeah- just an invite link.](https://discord.gg/M5JBd7d)
+
+### useless github stats 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tetsumakami&theme=material-palenight&hide=contribs,prs)(https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tetsumakami&layout=compact&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
