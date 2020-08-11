@@ -5,7 +5,9 @@ you just find useless shit but it's okay if you are so bored and visit my github
 ### my social medias
 
 **Twitter:** [@Tetsumakami](https://twitter.com/Tetsumakami)
+
 **Steam:** [/id/Tetsumakami](https://steamcommunity.com/id/Tetsumakami)
+
 **Discord Server:** [yeah- just an invite link.](https://discord.gg/M5JBd7d)
 
 ### useless github stats 
