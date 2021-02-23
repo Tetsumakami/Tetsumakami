@@ -1,6 +1,6 @@
-### Helo, call me Tetsu!
+### Helo, call me Eric.
 
-you just find useless shit but it's okay if you are so bored and visit my github site :D
+you just find useless shit but it's okay if you are so bored and visit my github site.
 
 ### my social medias
 
