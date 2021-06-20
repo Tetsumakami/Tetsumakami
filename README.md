@@ -11,6 +11,8 @@
 
 **Discord Server** - wip.
 
+**you can contact me via email too.** - me@novhnsk.codes
+
 ### useless github stats 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Novhnsk&theme=material-palenight&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
